@@ -7,10 +7,14 @@ public class Main {
         char studentLastInitial = 'H';
         boolean hasPerfectAttendance = true;
 
+        String studentName = "Kayla Hammon";
+
         System.out.println(studentAge);
         System.out.println(studentGPA);
         System.out.println(studentFirstInitial);
         System.out.println(studentLastInitial);
         System.out.println(hasPerfectAttendance);
+        System.out.println(studentName);
+
     }
 }
